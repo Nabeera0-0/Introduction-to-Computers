@@ -27,4 +27,11 @@ Fourth Generation: Introduced microprocessors and personal computers.
 
 Fifth Generation: Focuses on AI and advanced technologies.
 
+## Tools Used
+
+- Git
+- GitHub
+- Visual Studio Code
+- Web Browser
+
 
