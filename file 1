@@ -1,0 +1,5 @@
+#include<stdio.h>
+int main (){
+printf("this is file for git hub ");
+return 0;
+}
