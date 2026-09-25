@@ -1,5 +1,5 @@
 
-**# Introduction to Computers**
+**#Introduction to Computers**
 
 A computer is an electronic device that accepts data, processes it,
 stores information, and produces useful output.Computers are used in education, business, healthcare, communication,
@@ -14,7 +14,7 @@ entertainment, engineering, and many other fields.
 6. Supercomputers
 
 
-*## History of Computers*
+*##History of Computers*
 
 The history of computers is that it began with simple tools used for calculation
 and developed into the powerful digital computers we use today.
@@ -32,7 +32,7 @@ Fifth Generation: Focuses on AI and advanced technologies.
 
 
 _________________________________________
-|              ## Tools Used            |
+|              ##Tools Used            |
 |_______________________________________|
 |                    |                  |
 |       Git          |  Vscode          |
